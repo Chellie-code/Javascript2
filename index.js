@@ -1,0 +1,1 @@
+let usersAge = propmt('Enter your age.');
